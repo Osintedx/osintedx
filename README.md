@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h5 align="center">Hi!, I'm Taylor<br><br>I write code, and it works. ( sometimes)<br><br>Bachelors of Science in Computer Science @UCF</h5>
+<h5 align="center">Hi!, I'm Taylor<br><br>I write code, and it works. ( sometimes) no like seriously.. sometimes it works<br><br>I have a Bachelors of Science in Computer Science @UCF</h5>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Language Stack / Frameworks:</h2>
+<h2 align="center">Language Stack:</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="center">IDEs & More</h2>
+<h2 align="center">IDEs I use:</h2>
 
 ###
 
@@ -79,4 +79,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Osintedx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osintedx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Osintedx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osintedx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
