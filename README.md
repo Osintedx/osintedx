@@ -3,9 +3,7 @@
 <h5 align="center">
     Hi!, I'm Taylor<br><br>
     I write code, and it works. (sometimes) no like seriously... sometimes it works<br><br>
-    I have a Bachelors of Science in Computer Science @UCF<br><br>
-    For Support visit <a href="https://support.apple.com/" target="_blank">https://support.apple.com/</a>. I am not a Support Agent, I cannot assist you with your device.
-</h5>
+    I have a Bachelors of Science in Computer Science @UCF<br><br></h5>
 
 ###
 
