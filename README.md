@@ -1,9 +1,9 @@
 <br clear="both">
 
 <h5 align="center">
-    Hi!, I'm Taylor<br><br>
-    I write code, and it works. (sometimes)... no like seriously — sometimes it works.<br><br>
-    I have a Bachelor of Science in Computer Science @UCF<br><br>
+    Hi, I'm Taylor 👋<br><br>
+    I write code — and sometimes it even works (no, really... only sometimes).<br><br>
+    Bachelor of Science in Computer Science @ UCF 🎓<br><br>
 </h5>
 
 ###
